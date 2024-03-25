@@ -1,0 +1,3 @@
+[submodule "asteroids"]
+	path = asteroids
+	url = https://github.com/atliax/FOR3C05_leikur.git
